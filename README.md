@@ -7,7 +7,7 @@
 
 ## Project Description :star:
 
-System covid site.
+UI Clone site turism
 
 ## Technology | Language :books:
 
